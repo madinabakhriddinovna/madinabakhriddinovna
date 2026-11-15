@@ -1,4 +1,4 @@
-# Hi, I'm Madina, Bakhriddinovna 👋
+# Hi, I'm Madina Bakhriddinovna 👋
 
 Manager building **AI automations for HR, recruiting and media**.
 I turn slow, manual work into simple bots and agents that run on their own.
