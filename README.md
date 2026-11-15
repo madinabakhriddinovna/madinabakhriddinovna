@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Madina, Bakhriddinovna 👋
 
-<!--
-**madinabakhriddinovna/madinabakhriddinovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manager building **AI automations for HR, recruiting and media**.
+I turn slow, manual work into simple bots and agents that run on their own.
 
-Here are some ideas to get you started:
+## 🛠 What I've built
+- **AI Recruiting Agent**: a Telegram bot that screens candidates, collects CVs, books Zoom interviews and sends applicant cards to HR.
+- **Attendance Bot**: turns Face ID check-in data into daily Telegram reports and sends automatic shift reminders.
+- **Payroll Bot**: automates payroll calculations step by step.
+- **Reels Agent**: an AI agent for creating social media content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools
+Python · Claude API · Telegram Bot API · Google Apps Script · Google Sheets · Railway
+
+## 📫 Contact
+Telegram: @madina_bakhrii
